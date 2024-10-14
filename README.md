@@ -1,2 +1,2 @@
 # HackerRank-Python-Preparation
-Hacker Rank Python Solution
+Hacker Rank Python Preparation Solution
